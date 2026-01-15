@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# Rider
+*.sln.iml
+
+# macOS
+.DS_Store
